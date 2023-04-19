@@ -1,19 +1,56 @@
-# food_application
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/121867931/232946981-00aa6bfa-92e0-4de7-9868-1e8a32cc6c22.png">
 
 
-### Video
-
-https://user-images.githubusercontent.com/121867931/231127871-76d2ad9c-2e82-4d6f-af74-44e27697c7ac.mp4
+# **Food Ordering App**
+Made by Harshil Aslaliya
 
 ---
 
-### Photos
+</div>
 
-<img align='left' src="https://user-images.githubusercontent.com/121867931/231127926-3a397f7d-ef31-4040-bdb4-1e824feaccb0.jpg" width="200" height="450">
-<img src="https://user-images.githubusercontent.com/121867931/231127946-ad9ea257-78e7-410d-83ba-cd4aafbf8707.jpg" width="200" height="450">
+## 🗒 About
+
+This is an app from which you can order food, fruits, vegetables etc using SQL Database & Getx.
+
+## ⚙️ Features
+
+- Main features are as follows:
+
+    - Splash Page
+    - Order Food
+    - Add to cart functionality
+    - Like Food functionality
+    - Use SQL Database & Getx
+    
+## 📲 Screenshots
+
+<img align="left" src="https://user-images.githubusercontent.com/121867931/231127926-3a397f7d-ef31-4040-bdb4-1e824feaccb0.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121867931/231127946-ad9ea257-78e7-410d-83ba-cd4aafbf8707.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121867931/231128108-26bdbe13-a7a7-46c7-b465-86f2520cd1eb.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121867931/231128125-23570a6e-26d4-442f-8a1a-b9793c97ec33.jpg" width="220px">
+<img src="https://user-images.githubusercontent.com/121867931/231128133-50d827d0-f129-4df0-a5cb-51278380f4a8.jpg" width="220px">
 
 
-<img align='left' src="https://user-images.githubusercontent.com/121867931/231128108-26bdbe13-a7a7-46c7-b465-86f2520cd1eb.jpg" width="200" height="450">
-<img src="https://user-images.githubusercontent.com/121867931/231128125-23570a6e-26d4-442f-8a1a-b9793c97ec33.jpg" width="200" height="450">
+<br><br>
 
-<img align='left' src="https://user-images.githubusercontent.com/121867931/231128133-50d827d0-f129-4df0-a5cb-51278380f4a8.jpg" width="200" height="450">
+## 📲 Preview
+
+https://user-images.githubusercontent.com/121867931/231127871-76d2ad9c-2e82-4d6f-af74-44e27697c7ac.mp4
+
+## 📝 License
+
+Copyright © [Harshil Aslaliya](https://github.com/HarshilAslaliya). <br>
+This project is [MIT](License.md) licensed.
+
+---
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/121867931/232948293-6f9b33e0-b80c-49a8-aced-fb8ad4453995.png" width="280px" height="210px">
+
+---
+### You can show some respect by starring 🌟 the repository!
+---
+
+</div>
