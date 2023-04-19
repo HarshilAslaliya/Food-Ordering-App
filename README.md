@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/121867931/232946981-00aa6bfa-92e0-4de7-9868-1e8a32cc6c22.png">
+<img src="https://user-images.githubusercontent.com/121867931/232949627-996d713a-6d8a-49ec-a9b1-a172001bf188.png">
 
 
 # **Food Ordering App**
